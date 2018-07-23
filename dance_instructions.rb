@@ -6,7 +6,7 @@ def lower body
   puts "Return right foot to the ground"
   puts "Finishing with a small skip-step backward"
 end 
-def skip-step
+def skipstep
   puts "Lower left foot to the ground"
   puts "Bounce left foot back up slightly, kicking it a few inches back" 
   puts "Left, Right, Left and Left"
