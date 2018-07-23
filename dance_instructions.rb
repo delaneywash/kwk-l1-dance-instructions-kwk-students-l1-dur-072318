@@ -13,7 +13,7 @@ def skipstep
   puts "Lower right foot to the ground."
   puts "Bounce right foot back back up slightly, kicking it a few inches back"
   puts "Right, Left, Right and Right"
-end
+  end
   def bob the reins
     puts "Holding your arms out in front of you, straight and at chest level"
     puts "Cross your right wrist over your left and hold them together"
