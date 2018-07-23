@@ -14,7 +14,6 @@ def skipstep
   puts "Bounce right foot back back up slightly, kicking it a few inches back"
   puts "Right, Left, Right and Right"
 end
-def upper body
   def bob the reins
     puts "Holding your arms out in front of you, straight and at chest level"
     puts "Cross your right wrist over your left and hold them together"
@@ -24,5 +23,4 @@ def upper body
     puts "Lift right arm up and point right elbow diagonally to the right."
     puts "Raise right forearm so that it points straight up, and whip it in small circles to the beat of the song, as if you were a cowboy holding a rope lasso. This movement is repeated eight times as well."
   end
-end
   
